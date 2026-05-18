@@ -1,6 +1,6 @@
 print("helo")
 print("world")
-user = input("wat is your name ")
+user = input("what is your name ")
 print (user)
 x= input("user name")
 print(x)
